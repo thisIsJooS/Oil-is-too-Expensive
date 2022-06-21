@@ -1,2 +1,5 @@
 chromedriver
 .history
+*.xls
+*.pdf
+.ipynb_checkpoints
